@@ -168,8 +168,6 @@ Pawn
 C
 MySQL
 Microsoft SQL Server
-FCNPC
-Streamer
 ```
 
 ### Highlights
@@ -243,12 +241,6 @@ Automation
 # 📊 GitHub Statistics
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=berkleblebiciii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkleblebiciii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=berkleblebiciii&theme=tokyonight&hide_border=true"/>
 
