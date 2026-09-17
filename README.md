@@ -10,11 +10,11 @@
 
 <br><br>
 
-<a href="https://github.com/berkoflex">
+<a href="https://github.com/berkleblebiciii">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:berkleblebicii@proton.me">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -244,13 +244,13 @@ Automation
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=berkoflex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=berkleblebiciii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkoflex&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkleblebiciii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=berkoflex&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=berkleblebiciii&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -299,7 +299,7 @@ I'm interested in:
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:berkleblebicii@proton.me">
 <img src="https://img.shields.io/badge/LET'S%20BUILD%20SOMETHING-7C3AED?style=for-the-badge&logo=rocket&logoColor=white"/>
 </a>
 
